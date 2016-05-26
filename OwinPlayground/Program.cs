@@ -39,7 +39,7 @@ namespace OwinPlayground
         /// Registers the modules via TPL Pallarel.Invoke
         /// </summary>
         /// <param name="modules"></param>
-        private static void RegisterModulesWithPallarelInvoke(IList<ISyncModule> modules)
+        private static void RegisterModulesWithParallelInvoke(IList<ISyncModule> modules)
         {
             ParallelOptions parOpts = new ParallelOptions()
             {
