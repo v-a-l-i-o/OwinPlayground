@@ -13,8 +13,6 @@ namespace MinimalOwinWebApiSelfHost
 {
     public class Startup
     {
-       
-
         public static ObservableCollection<string> JobsLogCollection { get; set; }
 
         /// <summary>

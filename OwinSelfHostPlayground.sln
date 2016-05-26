@@ -35,7 +35,6 @@ Global
 	GlobalSection(TeamFoundationVersionControl) = preSolution
 		SccNumberOfProjects = 3
 		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = https://bonev.visualstudio.com/
 		SccProjectUniqueName0 = MinimalOwinWebApiSelfHost\\MinimalOwinWebApiSelfHost.csproj
 		SccProjectName0 = MinimalOwinWebApiSelfHost
 		SccLocalPath0 = MinimalOwinWebApiSelfHost
